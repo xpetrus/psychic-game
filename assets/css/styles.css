@@ -1,0 +1,21 @@
+h3{
+    margin-bottom: 30px;
+    margin-top: -30px;
+    font-family: 'Chelsea Market', cursive;
+}
+h5{
+    font-family: 'Chelsea Market', cursive;
+}
+
+h1{
+    color: white;
+    font-family: 'Chelsea Market', cursive;
+}
+
+body{
+    background-image: url(../images/psychic.png);
+   /* background-repeat: no-repeat; */
+    background-size: cover;
+    
+    
+}
